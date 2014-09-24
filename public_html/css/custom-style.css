@@ -2,19 +2,23 @@ div{
     border-style: solid;
     border-width: 3px;
     padding: 30px;
-    border-color: green;
+    border-color: none;
 }
 
 .container{
-    border-color: #269abc
+    border-color:
 }
 
 .row{
-    border-color: crimson;
+    border-color:
 }
 
 .list-group-item{
     border: 0;
     margin-top: 35px;
     margin-bottom: 35px;
+}
+
+.col-xs-10{
+    padding-right: 20px;
 }
